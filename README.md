@@ -1,6 +1,6 @@
 # About Me
 
-Welcome to my GitHub! If you would like to see examples of my code, I unfortunately cannot make it public because most of it was used for classes, but contact me and I can share it with you. If you just want to learn more about me, read on!
+Welcome to my GitHub!
 
 Feel free to skip to my [education](#education), [experience](#experience), [skills](#skills), or [projects](#projects). I can be contacted at:
 
@@ -52,4 +52,4 @@ __Intern__, [_L3Harris_](https://www.riggsconsultingllc.com/), June 2018-August 
 
 ## Family Map App
 
-For a programming class, I designed a server and client app which stores ancestor information and plots it on an interactive map. The server used Java and SQLite to store user information in a database, and the client was written in Java using Android Studio. The code for both are in private repositories on GitHub.
+For a programming class, I designed a server and client app which stores ancestor information and plots it on an interactive map. The server used Java and SQLite to store user information in a database, and the client was written in Java using Android Studio. The code for both are in private repositories on my GitHub. 
