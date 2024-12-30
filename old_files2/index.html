@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>About Me - John Doe</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <h1>John Doe</h1>
+            <p>Computer Science enthusiast with a passion for solving complex problems through innovative solutions. 
+                Experienced in software development, machine learning, and cloud computing.</p>
+            <img src="profile.jpg" alt="John Doe Profile Picture">
+        </section>
+
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>Programming Languages: JavaScript, Python, C++</li>
+                <li>Frameworks: React, Node.js, Django</li>
+                <li>Tools: Git, Docker, AWS, GCP</li>
+                <li>Databases: MySQL, MongoDB</li>
+            </ul>
+        </section>
+
+        <section id="experience">
+            <h2>Experience</h2>
+            <div class="job">
+                <h3>Software Engineer Intern</h3>
+                <p>ABC Corp - June 2023 to Present</p>
+                <ul>
+                    <li>Developed microservices using Node.js and Docker.</li>
+                    <li>Worked on implementing RESTful APIs for backend services.</li>
+                </ul>
+            </div>
+
+            <div class="job">
+                <h3>Research Assistant</h3>
+                <p>XYZ University - Sept 2022 to May 2023</p>
+                <ul>
+                    <li>Researched machine learning algorithms to optimize data analysis.</li>
+                    <li>Published a paper on cloud-based distributed systems.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="projects">
+            <h2>Projects</h2>
+            <ul>
+                <li><strong>Personal Portfolio Website:</strong> Built using HTML, CSS, and JavaScript.</li>
+                <li><strong>Machine Learning Model:</strong> Created a predictive model using Python and Scikit-learn.</li>
+            </ul>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <form id="contact-form">
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" required>
+                
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" required>
+                
+                <label for="message">Message</label>
+                <textarea id="message" name="message" required></textarea>
+                
+                <button type="submit">Send Message</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 John Doe</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

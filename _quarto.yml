@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Laura Landon - Student, Researcher, Engineer"
+  navbar:
+    title: false
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Resume
+    right:
+      - href: https://github.com/laural12/
+        icon: "github"
+      - href: https://linkedin.com/in/laura-m-landon/
+        icon: "linkedin"
+
+format:
+  html:
+    grid:
+      sidebar-width: 350px
+    theme: minty
+    css: styles.css
+    toc: true
+
+
+

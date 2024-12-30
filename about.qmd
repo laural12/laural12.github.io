@@ -1,0 +1,12 @@
+---
+title: "Resume"
+---
+
+::: {style="text-align: center;"}
+
+<iframe 
+    src="Resume_Google_12122024.pdf" 
+    style="width: 100%; height: 600px; border: none;">
+</iframe>
+
+:::

@@ -1,0 +1,65 @@
+---
+title: "Laura Landon"
+---
+
+<!-- ![me](imgs/profile.jpg) -->
+
+<!-- <img src="imgs/profile.jpg" width="200">
+
+I am a PhD student at MIT in the Network Coding and Reliable Communications group under Dr. Muriel Medard. My current research focuses on network coding as an alternative to ARQ and Hybrid ARQ in 5G cellular networks. I enjoy finding elegant mathematical solutions to real-world problems in computers and communications. I have experience in C/C++, Python, Java, Matlab, Android Studio, and GNU Radio. Past research and work experiences focused on digital communications, wireless networks, and signal processing. -->
+
+<!-- ::: {style="display: flex; align-items: center;"} -->
+
+  <!-- Image on the left -->
+  <!-- ::: {style="flex: 1;"}
+    <img src="imgs/profile.jpg" alt="Me" style="width: 100%; max-width: 200px;">
+  ::: -->
+
+  <!-- Text on the right -->
+  <!-- ::: {style="flex: 2; margin-left: 20px;"}
+    
+      I am a PhD student at MIT in the Network Coding and Reliable Communications group under Dr. Muriel Medard. My current research focuses on network coding as an alternative to ARQ and Hybrid ARQ in 5G cellular networks. I enjoy finding elegant mathematical solutions to real-world problems in computers and communications. I have experience in C/C++, Python, Java, Matlab, Android Studio, and GNU Radio. Past research and work experiences focused on digital communications, wireless networks, and signal processing.
+    
+  :::
+
+::: -->
+
+<!-- <div>
+    <div style="float: left; position: relative; top: 0px; padding: 30px;">
+    ![](imgs/profile.jpg)
+    </div>
+
+Some text, some text, some text, some text, some text, [...] some text, some text
+</div> -->
+
+<!-- ---
+title: "Laura Landon"
+--- -->
+
+<!-- ::::: {style="display: flex; align-items: center;"} -->
+::: {layout="[30,70]"}
+  
+  <!-- ::: {style="flex: 1;"} -->
+  ![Me](imgs/smiling.png){style="width: 200px;"}
+  <!-- ::: -->
+
+  <!-- ::: {style="flex: 2; margin-left: 20px;"} -->
+  I am a PhD student at MIT in the Network Coding and Reliable Communications group under Dr. Muriel Medard. My current research focuses on network coding as an alternative to ARQ and Hybrid ARQ in 5G cellular networks for latency performance enhancement. I enjoy finding elegant mathematical solutions to real-world problems in computers and communications. Past research and work experiences focused on digital communications, wireless networks, and signal processing. 
+  <!-- ::: -->
+  
+:::
+
+Some current areas of interest:
+
+- Cellular networks
+- Video streaming
+- Congestion control
+
+<!-- ::::: {#special .sidebar}
+
+::: {.warning}
+Here is a warning.
+:::
+
+More content.
+::::: -->

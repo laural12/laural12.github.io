@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Laura Landon",
+    "section": "",
+    "text": "I am a PhD student at MIT in the Network Coding and Reliable Communications group under Dr. Muriel Medard. My current research focuses on network coding as an alternative to ARQ and Hybrid ARQ in 5G cellular networks for latency performance enhancement. I enjoy finding elegant mathematical solutions to real-world problems in computers and communications. Past research and work experiences focused on digital communications, wireless networks, and signal processing. \n\n\n\nSome current areas of interest:\n\nCellular networks\nVideo streaming\nCongestion control"
+  }
+]
